@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Student / Developer in South Korea    
+Currently learning Android Development
 <!--
 **uyuanx8/uyuanx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
