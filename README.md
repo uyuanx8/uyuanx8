@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student / Developer in South Korea    
+Ordinary student in South Korea    
 Currently learning Android & Web Development
 
 (한국어)    
