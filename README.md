@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Ordinary student in South Korea    
-Currently learning Android & Web Development
-
 
 한국의 평범한 학생입니다 :)    
 현재는 안드로이드 앱 / 웹사이트 개발 배우고 있습니다.
